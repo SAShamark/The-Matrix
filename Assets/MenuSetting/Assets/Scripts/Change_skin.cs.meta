@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: adb853b85a9684a4ba44ee7050a737ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spr1: {instanceID: 0}
+  - spr2: {instanceID: 0}
+  - spr3: {instanceID: 0}
+  - Mixer: {fileID: 24300002, guid: 5ce17dbf8c8d6fc468ff3054f084df3f, type: 2}
+  - Click_Sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
